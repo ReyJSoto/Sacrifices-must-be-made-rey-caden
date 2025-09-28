@@ -7,3 +7,6 @@ Movement-
 "D" /  Right Arrow - Move Right
 
 "A" / Left Arrow - Move Left
+
+THIS REPOSITORY WAS CLONED FROM OUR ORIGINAL REPOSITORY DUE TO MERGE CONFLICTS:
+https://github.com/ReyJSoto/sacrifices-must-be-made-rey.git
